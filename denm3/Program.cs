@@ -8,6 +8,8 @@ namespace denm3
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("merhaba dunya");
+            Console.ReadLine();
+            Console.WriteLine("Hola Mundo");
         }
     }
 }
