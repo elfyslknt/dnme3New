@@ -10,6 +10,7 @@ namespace denm3
            
             Console.ReadLine();
             Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Bonjour le monde");
         }
     }
 }
